@@ -1,0 +1,25 @@
+{
+	"schemaVersion": "0.1",
+	"id": "NJ-P-0000",
+	"title": "Replace with a precise proposal title",
+	"status": "draft",
+	"problem": "Describe the defect, gap, ambiguity or conflict in the current state.",
+	"objective": "State the result the proposal is intended to achieve.",
+	"assumptions": [],
+	"normativeChoices": [],
+	"proposedChange": "Describe the smallest coherent legal change.",
+	"affectedProvisions": [],
+	"affectedInterests": [],
+	"dependencies": [],
+	"tradeoffs": [],
+	"strongestObjection": "State the strongest argument against this proposal.",
+	"failureModes": [],
+	"testCases": [],
+	"sources": [],
+	"uncertainty": [],
+	"authorship": {
+		"mode": "human_authored",
+		"aiSystems": [],
+		"humanIntervention": "Describe the human contribution and review accurately."
+	}
+}
